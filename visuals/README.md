@@ -30,7 +30,7 @@ and an interactive Tableau dashboard.
 ## 🗂️ Project Structure
 
 
-
+```text
 churn-analysis/
 ├── data/
 │   ├── churn_queries.sql        # All SQL queries used in analysis
@@ -45,7 +45,7 @@ churn-analysis/
 │   └── correlation_heatmap.png
 │
 └── README.md
-
+```
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
