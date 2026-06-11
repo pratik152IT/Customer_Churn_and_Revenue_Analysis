@@ -21,15 +21,17 @@ and an interactive Tableau dashboard.
 
 ## 📊 Live Dashboard
 
-🔗 **[View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/pratik.parhad/viz/ChurnAnalysis_17812076426310/ChurnAnalysis?publish=yes))
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/pratik.parhad/viz/ChurnAnalysis_17812076426310/ChurnAnalysis?publish=yes)
 
 
 
 ---
 
 ## 🗂️ Project Structure
+## 🗂️ Project Structure
+
+```text
 churn-analysis/
-│
 ├── data/
 │   ├── churn_queries.sql        # All SQL queries used in analysis
 │   └── sample_data.csv          # Sample of 100 rows (full data on Kaggle)
@@ -43,7 +45,6 @@ churn-analysis/
 │   └── correlation_heatmap.png
 │
 └── README.md
----
 
 ## 🛠️ Tools & Technologies
 
