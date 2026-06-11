@@ -28,9 +28,9 @@ and an interactive Tableau dashboard.
 ---
 
 ## 🗂️ Project Structure
-## 🗂️ Project Structure
 
-```text
+
+
 churn-analysis/
 ├── data/
 │   ├── churn_queries.sql        # All SQL queries used in analysis
