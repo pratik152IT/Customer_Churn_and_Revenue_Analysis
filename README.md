@@ -89,21 +89,11 @@ to churn. Customers with 3 products show a **churn rate above 80%**,
 suggesting product overload or mismatched offerings.
 
 ### Finding 4 — Inactive members are at high risk
-Inactive members (`is_active_member = 0`) churn at significantly 
+Inactive members  churn at significantly 
 higher rates, presenting a clear opportunity for re-engagement campaigns.
 
 ---
 
-## 💰 Business Impact
-
-| Segment | Churn Rate | Customers at Risk | Revenue at Risk |
-|---------|-----------|------------------|----------------|
-| Age 46–60 | [X]% | [X] customers | $[X] |
-| Germany | [X]% | [X] customers | $[X] |
-| 3–4 Products | [X]% | [X] customers | $[X] |
-| **Total** | **[X]%** | **[X] customers** | **$[X]** |
-
-> Fill in these numbers from your actual query results
 
 ---
 
@@ -179,7 +169,7 @@ Based on the analysis, three actions are recommended:
    is recommended.
 
 3. **Re-engagement programme for inactive members** — customers marked 
-   as inactive (`is_active_member = 0`) are significantly more likely 
+   as inactive  are significantly more likely 
    to churn. A proactive outreach campaign with personalised offers 
    could reduce this risk.
 
